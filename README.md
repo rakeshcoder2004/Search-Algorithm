@@ -90,7 +90,7 @@ else:
 
 
 ## Sample Input and Output
-![1](/bimary1)
+![1](/binary1)
 ![2](/binary2)
 ![3](/binary3)
 
